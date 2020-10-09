@@ -1,0 +1,6 @@
+# répertoires et fichiers issus de la compilation
+out/
+
+# fichiers de configuration de l'IDE
+SimpleFraction.iml
+.idea/
